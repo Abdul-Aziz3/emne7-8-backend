@@ -1,0 +1,95 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0-windows7.0": {
+      "WorldViewLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/WorldViewLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WorldViewLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WorldViewLibrary/1.0.0": {
+      "type": "project",
+      "path": "../WorldViewLibrary/WorldViewLibrary.csproj",
+      "msbuildProject": "../WorldViewLibrary/WorldViewLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0-windows7.0": [
+      "WorldViewLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\abdi8\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\undervisning\\Uke 34\\WorldGui\\WorldGui.csproj",
+      "projectName": "WorldGui",
+      "projectPath": "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\undervisning\\Uke 34\\WorldGui\\WorldGui.csproj",
+      "packagesPath": "C:\\Users\\abdi8\\.nuget\\packages\\",
+      "outputPath": "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\undervisning\\Uke 34\\WorldGui\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\abdi8\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://packagesource": {}
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "projectReferences": {
+            "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\undervisning\\Uke 34\\WorldViewLibrary\\WorldViewLibrary.csproj": {
+              "projectPath": "C:\\GA\\Backend 2\\Emne 7 Avansert Programmering\\undervisning\\Uke 34\\WorldViewLibrary\\WorldViewLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0-windows7.0": {
+        "targetAlias": "net7.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+@baseUrl=https://localhost:7183
+
+### GET ALL (mapping til https://localhost:7183
+GET {{baseUrl}}/persons
+
+### GET ID
+GET {{baseUrl}}/persons/6
+
+### ADD New
+POST {{baseUrl}}/persons
+Content-Type: application/json
+
+{
+    "id": 4,
+    "firstName": "sad",
+    "lastName" : "sssa",
+    "age" : 12
+}
+
+### Update
+PUT {{baseUrl}}/persons/6
+Content-Type: application/json
+
+{
+    "firstName":"Ola",
+    "lastName" : "ola",
+    "age":25
+}
+
+### Delete
+DELETE {{baseUrl}}/persons/5

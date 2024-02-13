@@ -1,0 +1,240 @@
+Code,Name,Continent,Region,SurfaceArea,Population,LocalName,Capital,GovernmentForm
+ABW,Aruba,"North America",Caribbean,193.00,103000,Aruba,129,"Nonmetropolitan Territory of The Netherlands"
+AFG,Afghanistan,Asia,"Southern and Central Asia",652090.00,22720000,Afganistan/Afqanestan,1,"Islamic Emirate"
+AGO,Angola,Africa,"Central Africa",1246700.00,12878000,Angola,56,Republic
+AIA,Anguilla,"North America",Caribbean,96.00,8000,Anguilla,62,"Dependent Territory of the UK"
+ALB,Albania,Europe,"Southern Europe",28748.00,3401200,Shqipëria,34,Republic
+AND,Andorra,Europe,"Southern Europe",468.00,78000,Andorra,55,"Parliamentary Coprincipality"
+ANT,"Netherlands Antilles","North America",Caribbean,800.00,217000,"Nederlandse Antillen",33,"Nonmetropolitan Territory of The Netherlands"
+ARE,"United Arab Emirates",Asia,"Middle East",83600.00,2441000,"Al-Imarat al-´Arabiya al-Muttahida",65,"Emirate Federation"
+ARG,Argentina,"South America","South America",2780400.00,37032000,Argentina,69,"Federal Republic"
+ARM,Armenia,Asia,"Middle East",29800.00,3520000,Hajastan,126,Republic
+ASM,"American Samoa",Oceania,Polynesia,199.00,68000,"Amerika Samoa",54,"US Territory"
+ATA,Antarctica,Antarctica,Antarctica,13120000.00,0,–,NULL,Co-administrated
+ATF,"French Southern territories",Antarctica,Antarctica,7780.00,0,"Terres australes françaises",NULL,"Nonmetropolitan Territory of France"
+ATG,"Antigua and Barbuda","North America",Caribbean,442.00,68000,"Antigua and Barbuda",63,"Constitutional Monarchy"
+AUS,Australia,Oceania,"Australia and New Zealand",7741220.00,18886000,Australia,135,"Constitutional Monarchy;  Federation"
+AUT,Austria,Europe,"Western Europe",83859.00,8091800,Österreich,1523,"Federal Republic"
+AZE,Azerbaijan,Asia,"Middle East",86600.00,7734000,Azärbaycan,144,"Federal Republic"
+BDI,Burundi,Africa,"Eastern Africa",27834.00,6695000,Burundi/Uburundi,552,Republic
+BEL,Belgium,Europe,"Western Europe",30518.00,10239000,België/Belgique,179,"Constitutional Monarchy;  Federation"
+BEN,Benin,Africa,"Western Africa",112622.00,6097000,Bénin,187,Republic
+BFA,"Burkina Faso",Africa,"Western Africa",274000.00,11937000,"Burkina Faso",549,Republic
+BGD,Bangladesh,Asia,"Southern and Central Asia",143998.00,129155000,Bangladesh,150,Republic
+BGR,Bulgaria,Europe,"Eastern Europe",110994.00,8190900,Balgarija,539,Republic
+BHR,Bahrain,Asia,"Middle East",694.00,617000,Al-Bahrayn,149,"Monarchy (Emirate)"
+BHS,Bahamas,"North America",Caribbean,13878.00,307000,"The Bahamas",148,"Constitutional Monarchy"
+BIH,"Bosnia and Herzegovina",Europe,"Southern Europe",51197.00,3972000,"Bosna i Hercegovina",201,"Federal Republic"
+BLR,Belarus,Europe,"Eastern Europe",207600.00,10236000,Belarus,3520,Republic
+BLZ,Belize,"North America","Central America",22696.00,241000,Belize,185,"Constitutional Monarchy"
+BMU,Bermuda,"North America","North America",53.00,65000,Bermuda,191,"Dependent Territory of the UK"
+BOL,Bolivia,"South America","South America",1098581.00,8329000,Bolivia,194,Republic
+BRA,Brazil,"South America","South America",8547403.00,170115000,Brasil,211,"Federal Republic"
+BRB,Barbados,"North America",Caribbean,430.00,270000,Barbados,174,"Constitutional Monarchy"
+BRN,Brunei,Asia,"Southeast Asia",5765.00,328000,"Brunei Darussalam",538,"Monarchy (Sultanate)"
+BTN,Bhutan,Asia,"Southern and Central Asia",47000.00,2124000,Druk-Yul,192,Monarchy
+BVT,"Bouvet Island",Antarctica,Antarctica,59.00,0,Bouvetøya,NULL,"Dependent Territory of Norway"
+BWA,Botswana,Africa,"Southern Africa",581730.00,1622000,Botswana,204,Republic
+CAF,"Central African Republic",Africa,"Central Africa",622984.00,3615000,Centrafrique/Bê-Afrîka,1889,Republic
+CAN,Canada,"North America","North America",9970610.00,31147000,Canada,1822,"Constitutional Monarchy;  Federation"
+CCK,"Cocos (Keeling) Islands",Oceania,"Australia and New Zealand",14.00,600,"Cocos (Keeling) Islands",2317,"Territory of Australia"
+CHE,Switzerland,Europe,"Western Europe",41284.00,7160400,Schweiz/Suisse/Svizzera/Svizra,3248,Federation
+CHL,Chile,"South America","South America",756626.00,15211000,Chile,554,Republic
+CHN,China,Asia,"Eastern Asia",9572900.00,1277558000,Zhongquo,1891,People'sRepublic
+CIV,"Côte d’Ivoire",Africa,"Western Africa",322463.00,14786000,"Côte d’Ivoire",2814,Republic
+CMR,Cameroon,Africa,"Central Africa",475442.00,15085000,Cameroun/Cameroon,1804,Republic
+COD,"Congo  The Democratic Republic of the",Africa,"Central Africa",2344858.00,51654000,"République Démocratique du Congo",2298,Republic
+COG,Congo,Africa,"Central Africa",342000.00,2943000,Congo,2296,Republic
+COK,"Cook Islands",Oceania,Polynesia,236.00,20000,"The Cook Islands",583,"Nonmetropolitan Territory of New Zealand"
+COL,Colombia,"South America","South America",1138914.00,42321000,Colombia,2257,Republic
+COM,Comoros,Africa,"Eastern Africa",1862.00,578000,Komori/Comores,2295,Republic
+CPV,"Cape Verde",Africa,"Western Africa",4033.00,428000,"Cabo Verde",1859,Republic
+CRI,"Costa Rica","North America","Central America",51100.00,4023000,"Costa Rica",584,Republic
+CUB,Cuba,"North America",Caribbean,110861.00,11201000,Cuba,2413,"Socialistic Republic"
+CXR,"Christmas Island",Oceania,"Australia and New Zealand",135.00,2500,"Christmas Island",1791,"Territory of Australia"
+CYM,"Cayman Islands","North America",Caribbean,264.00,38000,"Cayman Islands",553,"Dependent Territory of the UK"
+CYP,Cyprus,Asia,"Middle East",9251.00,754700,Kýpros/Kibris,2430,Republic
+CZE,"Czech Republic",Europe,"Eastern Europe",78866.00,10278100,¸esko,3339,Republic
+DEU,Germany,Europe,"Western Europe",357022.00,82164700,Deutschland,3068,"Federal Republic"
+DJI,Djibouti,Africa,"Eastern Africa",23200.00,638000,Djibouti/Jibuti,585,Republic
+DMA,Dominica,"North America",Caribbean,751.00,71000,Dominica,586,Republic
+DNK,Denmark,Europe,"Nordic Countries",43094.00,5330000,Danmark,3315,"Constitutional Monarchy"
+DOM,"Dominican Republic","North America",Caribbean,48511.00,8495000,"República Dominicana",587,Republic
+DZA,Algeria,Africa,"Northern Africa",2381741.00,31471000,Al-Jaza’ir/Algérie,35,Republic
+ECU,Ecuador,"South America","South America",283561.00,12646000,Ecuador,594,Republic
+EGY,Egypt,Africa,"Northern Africa",1001449.00,68470000,Misr,608,Republic
+ERI,Eritrea,Africa,"Eastern Africa",117600.00,3850000,Ertra,652,Republic
+ESH,"Western Sahara",Africa,"Northern Africa",266000.00,293000,As-Sahrawiya,2453,"Occupied by Marocco"
+ESP,Spain,Europe,"Southern Europe",505992.00,39441700,España,653,"Constitutional Monarchy"
+EST,Estonia,Europe,"Baltic Countries",45227.00,1439200,Eesti,3791,Republic
+ETH,Ethiopia,Africa,"Eastern Africa",1104300.00,62565000,YeItyop´iya,756,Republic
+FIN,Finland,Europe,"Nordic Countries",338145.00,5171300,Suomi,3236,Republic
+FJI,"Fiji Islands",Oceania,Melanesia,18274.00,817000,"Fiji Islands",764,Republic
+FLK,"Falkland Islands","South America","South America",12173.00,2000,"Falkland Islands",763,"Dependent Territory of the UK"
+FRA,France,Europe,"Western Europe",551500.00,59225700,France,2974,Republic
+FRO,"Faroe Islands",Europe,"Nordic Countries",1399.00,43000,Føroyar,901,"Part of Denmark"
+FSM,"Micronesia  Federated States of",Oceania,Micronesia,702.00,119000,Micronesia,2689,"Federal Republic"
+GAB,Gabon,Africa,"Central Africa",267668.00,1226000,"Le Gabon",902,Republic
+GBR,"United Kingdom",Europe,"British Islands",242900.00,59623400,"United Kingdom",456,"Constitutional Monarchy"
+GEO,Georgia,Asia,"Middle East",69700.00,4968000,Sakartvelo,905,Republic
+GHA,Ghana,Africa,"Western Africa",238533.00,20212000,Ghana,910,Republic
+GIB,Gibraltar,Europe,"Southern Europe",6.00,25000,Gibraltar,915,"Dependent Territory of the UK"
+GIN,Guinea,Africa,"Western Africa",245857.00,7430000,Guinée,926,Republic
+GLP,Guadeloupe,"North America",Caribbean,1705.00,456000,Guadeloupe,919,"Overseas Department of France"
+GMB,Gambia,Africa,"Western Africa",11295.00,1305000,"The Gambia",904,Republic
+GNB,Guinea-Bissau,Africa,"Western Africa",36125.00,1213000,Guiné-Bissau,927,Republic
+GNQ,"Equatorial Guinea",Africa,"Central Africa",28051.00,453000,"Guinea Ecuatorial",2972,Republic
+GRC,Greece,Europe,"Southern Europe",131626.00,10545700,Elláda,2401,Republic
+GRD,Grenada,"North America",Caribbean,344.00,94000,Grenada,916,"Constitutional Monarchy"
+GRL,Greenland,"North America","North America",2166090.00,56000,"Kalaallit Nunaat/Grønland",917,"Part of Denmark"
+GTM,Guatemala,"North America","Central America",108889.00,11385000,Guatemala,922,Republic
+GUF,"French Guiana","South America","South America",90000.00,181000,"Guyane française",3014,"Overseas Department of France"
+GUM,Guam,Oceania,Micronesia,549.00,168000,Guam,921,"US Territory"
+GUY,Guyana,"South America","South America",214969.00,861000,Guyana,928,Republic
+HKG,"Hong Kong",Asia,"Eastern Asia",1075.00,6782000,"Xianggang/Hong Kong",937,"Special Administrative Region of China"
+HMD,"Heard Island and McDonald Islands",Antarctica,Antarctica,359.00,0,"Heard and McDonald Islands",NULL,"Territory of Australia"
+HND,Honduras,"North America","Central America",112088.00,6485000,Honduras,933,Republic
+HRV,Croatia,Europe,"Southern Europe",56538.00,4473000,Hrvatska,2409,Republic
+HTI,Haiti,"North America",Caribbean,27750.00,8222000,Haïti/Dayti,929,Republic
+HUN,Hungary,Europe,"Eastern Europe",93030.00,10043200,Magyarország,3483,Republic
+IDN,Indonesia,Asia,"Southeast Asia",1904569.00,212107000,Indonesia,939,Republic
+IND,India,Asia,"Southern and Central Asia",3287263.00,1013662000,Bharat/India,1109,"Federal Republic"
+IOT,"British Indian Ocean Territory",Africa,"Eastern Africa",78.00,0,"British Indian Ocean Territory",NULL,"Dependent Territory of the UK"
+IRL,Ireland,Europe,"British Islands",70273.00,3775100,Ireland/Éire,1447,Republic
+IRN,Iran,Asia,"Southern and Central Asia",1648195.00,67702000,Iran,1380,"Islamic Republic"
+IRQ,Iraq,Asia,"Middle East",438317.00,23115000,Al-´Iraq,1365,Republic
+ISL,Iceland,Europe,"Nordic Countries",103000.00,279000,Ísland,1449,Republic
+ISR,Israel,Asia,"Middle East",21056.00,6217000,Yisra’el/Isra’il,1450,Republic
+ITA,Italy,Europe,"Southern Europe",301316.00,57680000,Italia,1464,Republic
+JAM,Jamaica,"North America",Caribbean,10990.00,2583000,Jamaica,1530,"Constitutional Monarchy"
+JOR,Jordan,Asia,"Middle East",88946.00,5083000,Al-Urdunn,1786,"Constitutional Monarchy"
+JPN,Japan,Asia,"Eastern Asia",377829.00,126714000,Nihon/Nippon,1532,"Constitutional Monarchy"
+KAZ,Kazakstan,Asia,"Southern and Central Asia",2724900.00,16223000,Qazaqstan,1864,Republic
+KEN,Kenya,Africa,"Eastern Africa",580367.00,30080000,Kenya,1881,Republic
+KGZ,Kyrgyzstan,Asia,"Southern and Central Asia",199900.00,4699000,Kyrgyzstan,2253,Republic
+KHM,Cambodia,Asia,"Southeast Asia",181035.00,11168000,Kâmpuchéa,1800,"Constitutional Monarchy"
+KIR,Kiribati,Oceania,Micronesia,726.00,83000,Kiribati,2256,Republic
+KNA,"Saint Kitts and Nevis","North America",Caribbean,261.00,38000,"Saint Kitts and Nevis",3064,"Constitutional Monarchy"
+KOR,"South Korea",Asia,"Eastern Asia",99434.00,46844000,"Taehan Min’guk (Namhan)",2331,Republic
+KWT,Kuwait,Asia,"Middle East",17818.00,1972000,Al-Kuwayt,2429,"Constitutional Monarchy (Emirate)"
+LAO,Laos,Asia,"Southeast Asia",236800.00,5433000,Lao,2432,Republic
+LBN,Lebanon,Asia,"Middle East",10400.00,3282000,Lubnan,2438,Republic
+LBR,Liberia,Africa,"Western Africa",111369.00,3154000,Liberia,2440,Republic
+LBY,"Libyan Arab Jamahiriya",Africa,"Northern Africa",1759540.00,5605000,Libiya,2441,"Socialistic State"
+LCA,"Saint Lucia","North America",Caribbean,622.00,154000,"Saint Lucia",3065,"Constitutional Monarchy"
+LIE,Liechtenstein,Europe,"Western Europe",160.00,32300,Liechtenstein,2446,"Constitutional Monarchy"
+LKA,"Sri Lanka",Asia,"Southern and Central Asia",65610.00,18827000,"Sri Lanka/Ilankai",3217,Republic
+LSO,Lesotho,Africa,"Southern Africa",30355.00,2153000,Lesotho,2437,"Constitutional Monarchy"
+LTU,Lithuania,Europe,"Baltic Countries",65301.00,3698500,Lietuva,2447,Republic
+LUX,Luxembourg,Europe,"Western Europe",2586.00,435700,Luxembourg/Lëtzebuerg,2452,"Constitutional Monarchy"
+LVA,Latvia,Europe,"Baltic Countries",64589.00,2424200,Latvija,2434,Republic
+MAC,Macao,Asia,"Eastern Asia",18.00,473000,Macau/Aomen,2454,"Special Administrative Region of China"
+MAR,Morocco,Africa,"Northern Africa",446550.00,28351000,Al-Maghrib,2486,"Constitutional Monarchy"
+MCO,Monaco,Europe,"Western Europe",1.50,34000,Monaco,2695,"Constitutional Monarchy"
+MDA,Moldova,Europe,"Eastern Europe",33851.00,4380000,Moldova,2690,Republic
+MDG,Madagascar,Africa,"Eastern Africa",587041.00,15942000,Madagasikara/Madagascar,2455,"Federal Republic"
+MDV,Maldives,Asia,"Southern and Central Asia",298.00,286000,"Dhivehi Raajje/Maldives",2463,Republic
+MEX,Mexico,"North America","Central America",1958201.00,98881000,México,2515,"Federal Republic"
+MHL,"Marshall Islands",Oceania,Micronesia,181.00,64000,"Marshall Islands/Majol",2507,Republic
+MKD,Macedonia,Europe,"Southern Europe",25713.00,2024000,Makedonija,2460,Republic
+MLI,Mali,Africa,"Western Africa",1240192.00,11234000,Mali,2482,Republic
+MLT,Malta,Europe,"Southern Europe",316.00,380200,Malta,2484,Republic
+MMR,Myanmar,Asia,"Southeast Asia",676578.00,45611000,"Myanma Pye",2710,Republic
+MNG,Mongolia,Asia,"Eastern Asia",1566500.00,2662000,"Mongol Uls",2696,Republic
+MNP,"Northern Mariana Islands",Oceania,Micronesia,464.00,78000,"Northern Mariana Islands",2913,"Commonwealth of the US"
+MOZ,Mozambique,Africa,"Eastern Africa",801590.00,19680000,Moçambique,2698,Republic
+MRT,Mauritania,Africa,"Western Africa",1025520.00,2670000,Muritaniya/Mauritanie,2509,Republic
+MSR,Montserrat,"North America",Caribbean,102.00,11000,Montserrat,2697,"Dependent Territory of the UK"
+MTQ,Martinique,"North America",Caribbean,1102.00,395000,Martinique,2508,"Overseas Department of France"
+MUS,Mauritius,Africa,"Eastern Africa",2040.00,1158000,Mauritius,2511,Republic
+MWI,Malawi,Africa,"Eastern Africa",118484.00,10925000,Malawi,2462,Republic
+MYS,Malaysia,Asia,"Southeast Asia",329758.00,22244000,Malaysia,2464,"Constitutional Monarchy;  Federation"
+MYT,Mayotte,Africa,"Eastern Africa",373.00,149000,Mayotte,2514,"Territorial Collectivity of France"
+NAM,Namibia,Africa,"Southern Africa",824292.00,1726000,Namibia,2726,Republic
+NCL,"New Caledonia",Oceania,Melanesia,18575.00,214000,Nouvelle-Calédonie,3493,"Nonmetropolitan Territory of France"
+NER,Niger,Africa,"Western Africa",1267000.00,10730000,Niger,2738,Republic
+NFK,"Norfolk Island",Oceania,"Australia and New Zealand",36.00,2000,"Norfolk Island",2806,"Territory of Australia"
+NGA,Nigeria,Africa,"Western Africa",923768.00,111506000,Nigeria,2754,"Federal Republic"
+NIC,Nicaragua,"North America","Central America",130000.00,5074000,Nicaragua,2734,Republic
+NIU,Niue,Oceania,Polynesia,260.00,2000,Niue,2805,"Nonmetropolitan Territory of New Zealand"
+NLD,Netherlands,Europe,"Western Europe",41526.00,15864000,Nederland,5,"Constitutional Monarchy"
+NOR,Norway,Europe,"Nordic Countries",323877.00,4478500,Norge,2807,"Constitutional Monarchy"
+NPL,Nepal,Asia,"Southern and Central Asia",147181.00,23930000,Nepal,2729,"Constitutional Monarchy"
+NRU,Nauru,Oceania,Micronesia,21.00,12000,Naoero/Nauru,2728,Republic
+NZL,"New Zealand",Oceania,"Australia and New Zealand",270534.00,3862000,"New Zealand/Aotearoa",3499,"Constitutional Monarchy"
+OMN,Oman,Asia,"Middle East",309500.00,2542000,´Uman,2821,"Monarchy (Sultanate)"
+PAK,Pakistan,Asia,"Southern and Central Asia",796095.00,156483000,Pakistan,2831,Republic
+PAN,Panama,"North America","Central America",75517.00,2856000,Panamá,2882,Republic
+PCN,Pitcairn,Oceania,Polynesia,49.00,50,Pitcairn,2912,"Dependent Territory of the UK"
+PER,Peru,"South America","South America",1285216.00,25662000,Perú/Piruw,2890,Republic
+PHL,Philippines,Asia,"Southeast Asia",300000.00,75967000,Pilipinas,766,Republic
+PLW,Palau,Oceania,Micronesia,459.00,19000,Belau/Palau,2881,Republic
+PNG,"Papua New Guinea",Oceania,Melanesia,462840.00,4807000,"Papua New Guinea/Papua Niugini",2884,"Constitutional Monarchy"
+POL,Poland,Europe,"Eastern Europe",323250.00,38653600,Polska,2928,Republic
+PRI,"Puerto Rico","North America",Caribbean,8875.00,3869000,"Puerto Rico",2919,"Commonwealth of the US"
+PRK,"North Korea",Asia,"Eastern Asia",120538.00,24039000,"Choson Minjujuui In´min Konghwaguk (Bukhan)",2318,"Socialistic Republic"
+PRT,Portugal,Europe,"Southern Europe",91982.00,9997600,Portugal,2914,Republic
+PRY,Paraguay,"South America","South America",406752.00,5496000,Paraguay,2885,Republic
+PSE,Palestine,Asia,"Middle East",6257.00,3101000,Filastin,4074,"Autonomous Area"
+PYF,"French Polynesia",Oceania,Polynesia,4000.00,235000,"Polynésie française",3016,"Nonmetropolitan Territory of France"
+QAT,Qatar,Asia,"Middle East",11000.00,599000,Qatar,2973,Monarchy
+REU,Réunion,Africa,"Eastern Africa",2510.00,699000,Réunion,3017,"Overseas Department of France"
+ROM,Romania,Europe,"Eastern Europe",238391.00,22455500,România,3018,Republic
+RUS,"Russian Federation",Europe,"Eastern Europe",17075400.00,146934000,Rossija,3580,"Federal Republic"
+RWA,Rwanda,Africa,"Eastern Africa",26338.00,7733000,Rwanda/Urwanda,3047,Republic
+SAU,"Saudi Arabia",Asia,"Middle East",2149690.00,21607000,"Al-´Arabiya as-Sa´udiya",3173,Monarchy
+SDN,Sudan,Africa,"Northern Africa",2505813.00,29490000,As-Sudan,3225,"Islamic Republic"
+SEN,Senegal,Africa,"Western Africa",196722.00,9481000,Sénégal/Sounougal,3198,Republic
+SGP,Singapore,Asia,"Southeast Asia",618.00,3567000,Singapore/Singapura/Xinjiapo/Singapur,3208,Republic
+SGS,"South Georgia and the South Sandwich Islands",Antarctica,Antarctica,3903.00,0,"South Georgia and the South Sandwich Islands",NULL,"Dependent Territory of the UK"
+SHN,"Saint Helena",Africa,"Western Africa",314.00,6000,"Saint Helena",3063,"Dependent Territory of the UK"
+SJM,"Svalbard and Jan Mayen",Europe,"Nordic Countries",62422.00,3200,"Svalbard og Jan Mayen",938,"Dependent Territory of Norway"
+SLB,"Solomon Islands",Oceania,Melanesia,28896.00,444000,"Solomon Islands",3161,"Constitutional Monarchy"
+SLE,"Sierra Leone",Africa,"Western Africa",71740.00,4854000,"Sierra Leone",3207,Republic
+SLV,"El Salvador","North America","Central America",21041.00,6276000,"El Salvador",645,Republic
+SMR,"San Marino",Europe,"Southern Europe",61.00,27000,"San Marino",3171,Republic
+SOM,Somalia,Africa,"Eastern Africa",637657.00,10097000,Soomaaliya,3214,Republic
+SPM,"Saint Pierre and Miquelon","North America","North America",242.00,7000,Saint-Pierre-et-Miquelon,3067,"Territorial Collectivity of France"
+STP,"Sao Tome and Principe",Africa,"Central Africa",964.00,147000,"São Tomé e Príncipe",3172,Republic
+SUR,Suriname,"South America","South America",163265.00,417000,Suriname,3243,Republic
+SVK,Slovakia,Europe,"Eastern Europe",49012.00,5398700,Slovensko,3209,Republic
+SVN,Slovenia,Europe,"Southern Europe",20256.00,1987800,Slovenija,3212,Republic
+SWE,Sweden,Europe,"Nordic Countries",449964.00,8861400,Sverige,3048,"Constitutional Monarchy"
+SWZ,Swaziland,Africa,"Southern Africa",17364.00,1008000,kaNgwane,3244,Monarchy
+SYC,Seychelles,Africa,"Eastern Africa",455.00,77000,Sesel/Seychelles,3206,Republic
+SYR,Syria,Asia,"Middle East",185180.00,16125000,Suriya,3250,Republic
+TCA,"Turks and Caicos Islands","North America",Caribbean,430.00,17000,"The Turks and Caicos Islands",3423,"Dependent Territory of the UK"
+TCD,Chad,Africa,"Central Africa",1284000.00,7651000,Tchad/Tshad,3337,Republic
+TGO,Togo,Africa,"Western Africa",56785.00,4629000,Togo,3332,Republic
+THA,Thailand,Asia,"Southeast Asia",513115.00,61399000,"Prathet Thai",3320,"Constitutional Monarchy"
+TJK,Tajikistan,Asia,"Southern and Central Asia",143100.00,6188000,Toçikiston,3261,Republic
+TKL,Tokelau,Oceania,Polynesia,12.00,2000,Tokelau,3333,"Nonmetropolitan Territory of New Zealand"
+TKM,Turkmenistan,Asia,"Southern and Central Asia",488100.00,4459000,Türkmenostan,3419,Republic
+TMP,"East Timor",Asia,"Southeast Asia",14874.00,885000,"Timor Timur",1522,"Administrated by the UN"
+TON,Tonga,Oceania,Polynesia,650.00,99000,Tonga,3334,Monarchy
+TTO,"Trinidad and Tobago","North America",Caribbean,5130.00,1295000,"Trinidad and Tobago",3336,Republic
+TUN,Tunisia,Africa,"Northern Africa",163610.00,9586000,Tunis/Tunisie,3349,Republic
+TUR,Turkey,Asia,"Middle East",774815.00,66591000,Türkiye,3358,Republic
+TUV,Tuvalu,Oceania,Polynesia,26.00,12000,Tuvalu,3424,"Constitutional Monarchy"
+TWN,Taiwan,Asia,"Eastern Asia",36188.00,22256000,T’ai-wan,3263,Republic
+TZA,Tanzania,Africa,"Eastern Africa",883749.00,33517000,Tanzania,3306,Republic
+UGA,Uganda,Africa,"Eastern Africa",241038.00,21778000,Uganda,3425,Republic
+UKR,Ukraine,Europe,"Eastern Europe",603700.00,50456000,Ukrajina,3426,Republic
+UMI,"United States Minor Outlying Islands",Oceania,Micronesia/Caribbean,16.00,0,"United States Minor Outlying Islands",NULL,"Dependent Territory of the US"
+URY,Uruguay,"South America","South America",175016.00,3337000,Uruguay,3492,Republic
+USA,"United States","North America","North America",9363520.00,278357000,"United States",3813,"Federal Republic"
+UZB,Uzbekistan,Asia,"Southern and Central Asia",447400.00,24318000,Uzbekiston,3503,Republic
+VAT,"Holy See (Vatican City State)",Europe,"Southern Europe",0.40,1000,"Santa Sede/Città del Vaticano",3538,"Independent Church State"
+VCT,"Saint Vincent and the Grenadines","North America",Caribbean,388.00,114000,"Saint Vincent and the Grenadines",3066,"Constitutional Monarchy"
+VEN,Venezuela,"South America","South America",912050.00,24170000,Venezuela,3539,"Federal Republic"
+VGB,"Virgin Islands  British","North America",Caribbean,151.00,21000,"British Virgin Islands",537,"Dependent Territory of the UK"
+VIR,"Virgin Islands  U.S.","North America",Caribbean,347.00,93000,"Virgin Islands of the United States",4067,"US Territory"
+VNM,Vietnam,Asia,"Southeast Asia",331689.00,79832000,"Viêt Nam",3770,"Socialistic Republic"
+VUT,Vanuatu,Oceania,Melanesia,12189.00,190000,Vanuatu,3537,Republic
+WLF,"Wallis and Futuna",Oceania,Polynesia,200.00,15000,Wallis-et-Futuna,3536,"Nonmetropolitan Territory of France"
+WSM,Samoa,Oceania,Polynesia,2831.00,180000,Samoa,3169,"Parlementary Monarchy"
+YEM,Yemen,Asia,"Middle East",527968.00,18112000,Al-Yaman,1780,Republic
+YUG,Yugoslavia,Europe,"Southern Europe",102173.00,10640000,Jugoslavija,1792,"Federal Republic"
+ZAF,"South Africa",Africa,"Southern Africa",1221037.00,40377000,"South Africa",716,Republic
+ZMB,Zambia,Africa,"Eastern Africa",752618.00,9169000,Zambia,3162,Republic
+ZWE,Zimbabwe,Africa,"Eastern Africa",390757.00,11669000,Zimbabwe,4068,Republic

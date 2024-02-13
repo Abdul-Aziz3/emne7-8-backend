@@ -1,0 +1,11 @@
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\bin\Debug\net7.0\GaWebDownloadLibrary.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\bin\Debug\net7.0\GaWebDownloadLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\bin\Debug\net7.0\GaWebDownloadLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\refint\GaWebDownloadLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\GaWebDownloadLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 38 async await\GaWebDownloadLibrary\obj\Debug\net7.0\ref\GaWebDownloadLibrary.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CvneaYwq1pMcRVgVg7WeiFR+H6aSrS1+dketk6TnWLg=",
+  "Source": "PersonRESTApi",
+  "BasePath": "_content/PersonRESTApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

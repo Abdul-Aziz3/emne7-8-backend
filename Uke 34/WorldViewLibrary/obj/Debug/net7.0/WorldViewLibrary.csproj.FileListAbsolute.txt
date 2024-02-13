@@ -1,0 +1,58 @@
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.deps.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.AssemblyReference.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfoInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfo.cs
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\refint\WorldViewLibrary.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldViewLibrary\obj\Debug\net7.0\ref\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\refint\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\22-23\Emne 4 Objektorientert Programmering\OOP Undervisning\Uke 13\WorldViewLibrary\obj\Debug\net7.0\ref\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\refint\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldViewLibrary\obj\Debug\net7.0\ref\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.deps.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfo.cs
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\refint\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldViewLibrary\obj\Debug\net7.0\ref\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\refint\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldViewLibrary\obj\Debug\net7.0\ref\WorldViewLibrary.dll

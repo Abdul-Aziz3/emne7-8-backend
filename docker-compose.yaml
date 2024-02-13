@@ -1,0 +1,50 @@
+version: '3.4'
+
+services:
+  api:
+    container_name: studentblogg-api
+    build:
+      context: .
+      dockerfile: Uke 39\StudentBloggAPI\Dockerfile
+    ports:
+    - 8080:80
+    networks:
+    - studentblogg-nett
+    depends_on:
+    - db
+    environment:
+    - ConnectionStrings__DefaultConnection=Server=studentblogg-db;Database=ga_emne7_studentblogg;User ID=ga-app;Password=ga-5ecret-%;
+
+
+  db:
+    container_name: studentblogg-db
+    #image: abdul80/stud-db
+    build:
+        dockerfile: Dockerfile
+        context: Docker\MySQL
+    volumes:
+    - studentblogg-vol:/var/lib/mysql
+    ports:
+    - 4444:3306
+    networks:
+    - studentblogg-nett
+
+  server:
+    container_name: studentblogg-server
+    build:
+      dockerfile: Dockerfile
+      context: .\Docker\Nginx
+    ports:
+      - 80:81
+      - 9898:80
+    networks:
+      - studentblogg-nett
+    depends_on:
+      - api
+
+volumes:
+  studentblogg-vol:   
+
+networks:
+  studentblogg-nett:
+    driver: bridge  

@@ -1,0 +1,70 @@
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\appsettings.Development.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\appsettings.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.exe
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.deps.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.runtimeconfig.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.AssemblyInfo.cs
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.MvcApplicationPartsAssemblyInfo.cs
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.MvcApplicationPartsAssemblyInfo.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.WorldMinimalRESTapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.build.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\scopedcss\bundle\WorldMinimalRESTapi.styles.css
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.CopyComplete
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\refint\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.genruntimeconfig.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\obj\Debug\net7.0\ref\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldMinimalRESTapi\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\appsettings.Development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\appsettings.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.exe
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.runtimeconfig.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldMinimalRESTapi.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\bin\Debug\net7.0\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.MvcApplicationPartsAssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.MvcApplicationPartsAssemblyInfo.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.WorldMinimalRESTapi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.build.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.WorldMinimalRESTapi.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.build.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\staticwebassets.development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\scopedcss\bundle\WorldMinimalRESTapi.styles.css
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.csproj.CopyComplete
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\refint\WorldMinimalRESTapi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\WorldMinimalRESTapi.genruntimeconfig.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldMinimalRESTapi\obj\Debug\net7.0\ref\WorldMinimalRESTapi.dll

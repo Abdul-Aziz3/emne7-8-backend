@@ -1,0 +1,14 @@
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\bin\Debug\net7.0\ExtensionMethodTester.exe
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\bin\Debug\net7.0\ExtensionMethodTester.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\bin\Debug\net7.0\ExtensionMethodTester.runtimeconfig.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\bin\Debug\net7.0\ExtensionMethodTester.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\bin\Debug\net7.0\ExtensionMethodTester.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\refint\ExtensionMethodTester.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ExtensionMethodTester.genruntimeconfig.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 35\ExtensionMethodTester\obj\Debug\net7.0\ref\ExtensionMethodTester.dll

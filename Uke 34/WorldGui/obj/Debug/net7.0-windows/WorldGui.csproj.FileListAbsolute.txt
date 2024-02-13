@@ -1,0 +1,115 @@
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.dll
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.pdb
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\ga\DotNet\Emne-4 Objektorientert Programmering\Uke 13\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\Users\Yngve\OneDrive - GOKSTAD AKADEMIET AS\ga-code\23-24\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\GA\Backend 2\Emne Avansert Programmering\Emne 4 WorldGuiApp Base\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldGui.exe
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\Files\Country.csv
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\Files\City.csv
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\Files\CountryLanguage.csv
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldGui.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldGui.runtimeconfig.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldGui.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldGui.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\bin\Debug\net7.0-windows\WorldViewLibrary.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.WorldGui.resources
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.GenerateResource.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.csproj.CopyComplete
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\refint\WorldGui.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\WorldGui.genruntimeconfig.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 34\WorldGui\obj\Debug\net7.0-windows\ref\WorldGui.dll

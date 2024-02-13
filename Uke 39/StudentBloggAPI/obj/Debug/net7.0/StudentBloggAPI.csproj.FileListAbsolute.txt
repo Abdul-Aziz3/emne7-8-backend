@@ -1,0 +1,190 @@
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\appsettings.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.exe
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.runtimeconfig.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentBloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\scopedcss\bundle\StudentBloggAPI.styles.css
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CopyComplete
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\refint\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.genruntimeconfig.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\obj\Debug\net7.0\ref\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Humanizer.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Text.Json.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Google.Protobuf.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\MySql.Data.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.MySQL.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\Emne 4 WorldGuiApp Base\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\appsettings.Development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\appsettings.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.exe
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.deps.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.runtimeconfig.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\StudentBloggAPI.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.AspNetCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Google.Protobuf.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Humanizer.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Compression.LZ4.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Compression.LZ4.Streams.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\K4os.Hash.xxHash.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\MySql.Data.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\MySqlConnector.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\BouncyCastle.Crypto.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.AspNetCore.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Hosting.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Extensions.Logging.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Formatting.Compact.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Settings.Configuration.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Console.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.Debug.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.File.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Serilog.Sinks.MySQL.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.CodeDom.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Diagnostics.DiagnosticSource.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Text.Json.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\comerr64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\gssapi64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\k5sprt64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\krb5_64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win-x64\native\krbcc64.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.AssemblyReference.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfoInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.AssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CoreCompileInputs.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.StudentBloggAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.build.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.StudentBloggAPI.props
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.build.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\staticwebassets.development.json
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\scopedcss\bundle\StudentBloggAPI.styles.css
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.csproj.CopyComplete
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\refint\StudentBloggAPI.dll
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.pdb
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\StudentBloggAPI.genruntimeconfig.cache
+C:\GA\Backend 2\Emne 7 Avansert Programmering\undervisning\Uke 39\StudentBloggAPI\obj\Debug\net7.0\ref\StudentBloggAPI.dll
